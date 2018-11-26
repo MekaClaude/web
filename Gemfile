@@ -9,3 +9,4 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 # default themes for jekyll 
 gem 'minima', '~> 2.5'
 gem 'jekyll-swiss', '~> 1.0'
+gem 'rake', '~> 12.3', '>= 12.3.1'
