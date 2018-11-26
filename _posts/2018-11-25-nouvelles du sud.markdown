@@ -19,7 +19,7 @@ La majorité de la population africaine est jeune. L'Afrique va bientôt atteind
 Il est aujourd'hui question de restructurer l'économie en Afrique pour s'adapter au multiple changements avenir. La technique évolue de plus en plus et modifie les differentes tâches qu'éffectue l'humain au travail. Des voitures au surface de magazins en passant par l'habitation et les loisirs, le travail de demain ne sera pas comme celui d'hier. 
 
 
-
+<hr>
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
