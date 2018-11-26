@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
+title:  "This is the first postof my blog"
 date:   2018-11-25 19:06:22 +0100
 categories: jekyll update
 ---
